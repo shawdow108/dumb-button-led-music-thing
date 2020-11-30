@@ -1,6 +1,6 @@
 {
-    "name": "game thing",
-    "description": "",
+    "name": "lame-button-led-music-game",
+    "description": "its ~magic~. basically you press A button and it ~magically~ knows what you pressed. same thing with B button. shake to kill LEDs. also it plays annoying music",
     "dependencies": {
         "core": "*",
         "radio": "*",
